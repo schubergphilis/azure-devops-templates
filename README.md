@@ -1,2 +1,2 @@
 # azure-devops-templates
-Template Repo for Azure Devops Repository
+Repo for Azure Devops Repository
